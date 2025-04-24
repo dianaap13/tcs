@@ -13,6 +13,7 @@ import ast
 from matplotlib.backends.backend_pdf import PdfPages
 import matplotlib.image as mpimg
 from matplotlib.colors import LinearSegmentedColormap
+#hola
 
 # ---------- Configuración inicial de la página ----------
 st.set_page_config(
