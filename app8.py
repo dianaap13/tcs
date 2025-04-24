@@ -740,6 +740,5 @@ if 'df' in locals() and not df.empty:
                 """, unsafe_allow_html=True)
     else:
         st.warning("No se encontró la columna 'message' con los comentarios")
-
 else:
     st.info("Por el momento no hay información suficiente para el análisis.")
